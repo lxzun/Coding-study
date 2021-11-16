@@ -1,4 +1,3 @@
-import ast
 def solution(participant, completion):
     answer = ''
     participant.sort()
