@@ -11,10 +11,3 @@ def solution(phone_book):
         else:
             continue
     return answer
-
-
-if __name__ == '__main__':
-    n = input()
-    m = ast.literal_eval(n)  # str to list
-    ans = solution(m)
-    print(ans)
