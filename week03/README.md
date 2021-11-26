@@ -81,10 +81,10 @@
 
 <p>예제 #1<br>
 아래와 같이 2개의 네트워크가 있습니다.<br>
-  <img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/5b61d6ca97/cc1e7816-b6d7-4649-98e0-e95ea2007fd7.png" height="40%" title="" alt="image0.png"></p>
+  <img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/5b61d6ca97/cc1e7816-b6d7-4649-98e0-e95ea2007fd7.png" width="40%" title="" alt="image0.png"></p>
 
 <p>예제 #2<br>
 아래와 같이 1개의 네트워크가 있습니다.<br>
-  <img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/7554746da2/edb61632-59f4-4799-9154-de9ca98c9e55.png" height="40%" title="" alt="image1.png"></p>
+  <img src="https://grepp-programmers.s3.amazonaws.com/files/ybm/7554746da2/edb61632-59f4-4799-9154-de9ca98c9e55.png" width="40%" title="" alt="image1.png"></p>
 </div>
     </div>
