@@ -1,6 +1,6 @@
 # 로또의 최고 순위와 최저 순위
 
-<div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
+<div class="guide-section" id="tour2" style="width: calc(100% - 12px);">
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p><code>로또 6/45</code>(이하 '로또'로 표기)는 1부터 45까지의 숫자 중 6개를 찍어서 맞히는 대표적인 복권입니다. 아래는 로또의 순위를 정하는 방식입니다. <sup id="fnref1"><a href="#fn1">1</a></sup></p>
@@ -197,7 +197,7 @@
 
 # 다단계 칫솔 판매
 
-<div class="guide-section" id="tour2" style="width: calc(40% - 12px);">
+<div class="guide-section" id="tour2" style="width: calc(100% - 12px);">
     <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p>민호는 다단계 조직을 이용하여 칫솔을 판매하고 있습니다. 판매원이 칫솔을 판매하면 그 이익이 피라미드 조직을 타고 조금씩 분배되는 형태의 판매망입니다. 어느정도 판매가 이루어진 후, 조직을 운영하던 민호는 조직 내 누가 얼마만큼의 이득을 가져갔는지가 궁금해졌습니다. 예를 들어, 민호가 운영하고 있는 다단계 칫솔 판매 조직이 아래 그림과 같다고 합시다.</p>
