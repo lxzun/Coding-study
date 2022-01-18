@@ -1,4 +1,4 @@
-# 순위 탐색
+# 순위 검색
 <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
       <div class="markdown solarized-dark"><p><strong>[본 문제는 정확성과 효율성 테스트 각각 점수가 있는 문제입니다.]</strong></p>
